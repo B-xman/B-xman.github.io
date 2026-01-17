@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+.project {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 30px;
+  align-items: flex-start;
+}
+
+.project img {
+  width: 200px;     /* 🔹 CHANGE THIS */
+  height: auto;
+  border-radius: 6px;
+}
